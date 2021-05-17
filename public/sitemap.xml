@@ -8,7 +8,15 @@
     <loc>http://example.org/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>http://example.org/projects/awesomeco/</loc>
+  </url><url>
     <loc>http://example.org/categories/</loc>
+  </url><url>
+    <loc>http://example.org/projects/linkitvity/</loc>
+  </url><url>
+    <loc>http://example.org/projects/</loc>
+  </url><url>
+    <loc>http://example.org/projects/reddit/</loc>
   </url><url>
     <loc>http://example.org/tags/</loc>
   </url>
