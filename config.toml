@@ -2,3 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "My Portfolio"
 theme="basic"
+
+[params]
+   author ="Thomas Kim"
+   description="My portfolio site"
