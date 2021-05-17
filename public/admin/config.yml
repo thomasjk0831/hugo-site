@@ -1,0 +1,21 @@
+backend:
+  name: git-gateway
+media_folder: static/img
+public_folder: /img
+collections:
+  - name: 'projects'
+    label: 'Projects'
+    folder: 'content/projects'
+    create: true
+    
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Alt_text', name: 'alt_text', widget: 'string' }
+      - { label: 'Image', name: 'image', widget: 'image' }
+      - { label: 'Summary', name: 'summary', widget: 'string' }
+      - { label: 'Tech_used', name: 'tech_used', widget: 'markdown' }
+      - { label: 'Tags', name: 'tags', widget: 'list' }
+      - { label: 'Categories', name: 'categories', widget: 'list' }
+      
