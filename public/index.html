@@ -7,6 +7,7 @@
     <meta name="description" content="My portfolio site">
     <title>My Portfolio</title>
     <link rel="stylesheet" href="/css/style.css">
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head><body>
         <div class="container"><header>
     <h1>My Portfolio</h1>
@@ -32,6 +33,17 @@
  
             </main><footer>
     <small>Copyright 2021 Me.</small>
+    <script>
+        if (window.netlifyIdentity) {
+          window.netlifyIdentity.on('init', (user) => {
+            if (!user) {
+              window.netlifyIdentity.on('login', () => {
+                document.location.href = '/admin/';
+              });
+            }
+          });
+        }
+      </script>
 </footer></div>
     </body>
 </html>
