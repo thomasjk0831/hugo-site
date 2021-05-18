@@ -1,13 +1,19 @@
-import React, { useState, useEffect } from 'react'
-import ReactDOM from 'react-dom'
-import Main from './Main'
+// import React, { useState, useEffect } from 'react'
+// import ReactDOM from 'react-dom'
+// import Main from './Main'
 
 // axios.get('https://api.kanye.rest')
 // .then(res=>{
 //     console.log(res.data)
 // })
 
-ReactDOM.render(<Main />, document.getElementById('app'))
+// ReactDOM.render(<Main />, document.getElementById('app'))
+
+import { h, render } from 'preact'
+
+render((
+<p>Hello world. this is a preact component</p>
+), document.getElementById('app'))
 
 
 // 'use strict'
