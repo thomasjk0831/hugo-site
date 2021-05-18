@@ -5,7 +5,44 @@
     <link>/</link>
     <description>Recent content on My Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 17 May 2021 19:04:36 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Search</title>
+      <link>/search/</link>
+      <pubDate>Mon, 17 May 2021 19:20:03 -0400</pubDate>
+      
+      <guid>/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Second Post</title>
+      <link>/posts/second-post/</link>
+      <pubDate>Mon, 17 May 2021 19:04:36 -0400</pubDate>
+      
+      <guid>/posts/second-post/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>/posts/first-post/</link>
+      <pubDate>Mon, 17 May 2021 18:54:04 -0400</pubDate>
+      
+      <guid>/posts/first-post/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 17 May 2021 16:39:20 -0400</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>This is my Contact page</description>
+    </item>
+    
     <item>
       <title>About</title>
       <link>/about/</link>
@@ -43,12 +80,12 @@
     </item>
     
     <item>
-      <title>testing</title>
-      <link>/projects/testing/</link>
+      <title>Weather</title>
+      <link>/projects/weather/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/projects/testing/</guid>
-      <description>test</description>
+      <guid>/projects/weather/</guid>
+      <description>Summary of the Weather project</description>
     </item>
     
   </channel>

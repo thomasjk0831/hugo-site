@@ -2,11 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/about/</loc>
-    <lastmod>2021-05-13T13:57:40-04:00</lastmod>
+    <loc>/search/</loc>
+    <lastmod>2021-05-17T19:20:03-04:00</lastmod>
   </url><url>
     <loc>/</loc>
+    <lastmod>2021-05-17T19:04:36-04:00</lastmod>
     <priority>0</priority>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2021-05-17T19:04:36-04:00</lastmod>
+  </url><url>
+    <loc>/posts/second-post/</loc>
+    <lastmod>2021-05-17T19:04:36-04:00</lastmod>
+  </url><url>
+    <loc>/posts/first-post/</loc>
+    <lastmod>2021-05-17T18:54:04-04:00</lastmod>
+  </url><url>
+    <loc>/contact/</loc>
+    <lastmod>2021-05-17T16:39:20-04:00</lastmod>
+  </url><url>
+    <loc>/about/</loc>
+    <lastmod>2021-05-13T13:57:40-04:00</lastmod>
   </url><url>
     <loc>/projects/awesomeco/</loc>
   </url><url>
@@ -20,6 +36,6 @@
   </url><url>
     <loc>/tags/</loc>
   </url><url>
-    <loc>/projects/testing/</loc>
+    <loc>/projects/weather/</loc>
   </url>
 </urlset>

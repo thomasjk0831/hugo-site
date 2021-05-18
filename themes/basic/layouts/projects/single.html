@@ -12,6 +12,12 @@
           <h2>{{ .Title }}</h2>
 
           {{ .Content }}
+          <img alt ="{{ .Params.alt_text }}" src="{{ .Params.image }}">
+          <ul>
+              {{ range .Params.tech_used }}
+              <li>{{ . }}</li>
+              {{ end }}
+          </ul>
       </section>
   </div>
 
