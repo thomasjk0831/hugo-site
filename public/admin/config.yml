@@ -16,6 +16,7 @@ collections:
       - { label: 'Alt_text', name: 'alt_text', widget: 'string' }
       - { label: 'Image', name: 'image', widget: 'image' }
       - { label: 'Summary', name: 'summary', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Tags', name: 'tags', widget: 'list' }
       - { label: 'Categories', name: 'categories', widget: 'list' }
       
